@@ -1,4 +1,4 @@
- Hey there! 👋 I'm # Vyjayanti Nandula
+ # Hey there! 👋 I'm  Vyjayanti Nandula
 
 I'm a tech enthusiast with a passion for solving real-world challenges through code. I'm committed to open-source, innovation, and community building. I believe in the power of technology to make a positive impact.
 
