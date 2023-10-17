@@ -8,5 +8,4 @@ I'm a tech enthusiast with a passion for solving real-world challenges through c
 - 🎓 Harvard University Scholarship recipient for HARVARD WE CODE 2023
 - 📝 Best Research Paper: "Autonomic Rehabilitation Systems for Parkinson's Disease Management" (IEEE)
 
-Feel free to explore my projects and connect with me on LinkedIn! 🚀
-Linkedin - https://www.linkedin.com/in/vyjayanti-nandula-8837b523a/
+Feel free to explore my projects and connect with me on LinkedIn! 🚀 https://www.linkedin.com/in/vyjayanti-nandula-8837b523a/
